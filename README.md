@@ -1,6 +1,6 @@
 # FingerPy
 
-FingerPy is a algorithm using python, scipy and fft to measure, analyse and monitor the heart-beat of using only a video of the user's finger on a mobile camera.
+FingerPy is a algorithm using python, scipy and fft to measure, analyse and monitor heart-beat using only a video of the user's finger on a mobile cellphone camera.
 
 
 ## Setup
@@ -18,7 +18,8 @@ On the repository directory:
 Video on ```/samples```
 
 ```python3 main.py samples/test_finger.avi```
-![finger gif on camera](samples/finger.gif)
+![finger gif on camera](/samples/finger.gif)
 
 Result: 
-![result](samples/results.jpg)
+![result](/samples/results.jpg)
+
