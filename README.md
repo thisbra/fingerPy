@@ -21,5 +21,5 @@ Video on ```/samples```
 ![finger gif on camera](../samples/finger.gif)
 
 Result: 
-![result](../samples/results.jpg)
+![result](../samples/results.png)
 
