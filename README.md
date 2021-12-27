@@ -18,8 +18,8 @@ On the repository directory:
 Video on ```/samples```
 
 ```python3 main.py samples/test_finger.avi```
-![finger gif on camera](../samples/finger.gif)
+![finger gif on camera](finger.gif)
 
 Result: 
-![result](../samples/results.png)
+![result](results.png)
 
