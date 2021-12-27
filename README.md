@@ -18,7 +18,7 @@ On the repository directory:
 Video on ```/samples```
 
 ```python3 main.py samples/test_finger.avi```
-![finger gif on camera](finger.gif)
+![finger gif on camera](https://media0.giphy.com/media/gXzebxu2b6ZCgd8uUl/giphy.gif?cid=790b76114d6f1ae5ce4db8e03bf93cd99f7e25594edb00a7&rid=giphy.gif&ct=g)
 
 Result: 
 ![result](results.png)
